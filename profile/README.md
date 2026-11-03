@@ -2,6 +2,8 @@
 
 **Build, run and teach software in the cloud.**
 
+[![Uppcoder on DevHunt](https://devhunt.org/badge/uppcoder.svg)](https://devhunt.org/tool/uppcoder)
+
 Uppcoder is a cloud development platform. Build your stack from the frameworks, databases and services you need,
 work in the editor of your choice, and run it on our cloud, with each app on its own address. Or describe your app
 in a sentence and the AI builder creates it.
