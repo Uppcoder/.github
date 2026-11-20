@@ -30,7 +30,7 @@ Each one has a step-by-step guide, and the starters deploy on the free plan with
 | [wordpress-child-theme-starter](https://github.com/Uppcoder/wordpress-child-theme-starter) | A child theme of Twenty Twenty-Five | [Edit a WordPress theme over SSH](https://portal.uppcoder.com/guides/edit-wordpress-theme-over-ssh) |
 | [python-autograded-assignment](https://github.com/Uppcoder/python-autograded-assignment) | A Python assignment with public and hidden tests | [Autograde Python inside Canvas or Moodle](https://portal.uppcoder.com/guides/autograde-python-canvas-moodle) |
 | [java-autograded-assignment](https://github.com/Uppcoder/java-autograded-assignment) | The same in Java, with JUnit 5 | [Autograde Python inside Canvas or Moodle](https://portal.uppcoder.com/guides/autograde-python-canvas-moodle) |
-| [use-pixi-on-uppcoder](https://github.com/Uppcoder/use-pixi-on-uppcoder) | Add libraries and tools with pixi, tasks, your own pixi project | [Use pixi on Uppcoder](https://github.com/Uppcoder/use-pixi-on-uppcoder#readme) |
+| [use-pixi-on-uppcoder](https://github.com/Uppcoder/use-pixi-on-uppcoder) | Add libraries and tools with pixi, tasks, your own pixi project | [Use pixi on Uppcoder](https://portal.uppcoder.com/guides/use-pixi) |
 | [github-classroom-alternatives](https://github.com/Uppcoder/github-classroom-alternatives) | Every option now that GitHub Classroom has closed | [GitHub Classroom has closed](https://portal.uppcoder.com/github-classroom-closed) |
 
 All guides: [portal.uppcoder.com/guides](https://portal.uppcoder.com/guides)
